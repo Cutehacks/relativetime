@@ -1,0 +1,21 @@
+{
+  "name": "com.cutehacks.relativetime",
+  "description": "A tiny Javascript library for calculating relative time in Qt Quick.",
+  "author": {
+    "name": "Marius Bugge Monsen",
+    "email": "marius@cutehacks.com"
+  },
+  "repository": {
+    "type": "GITHUB",
+    "url": "git@github.com:Cutehacks/relativetime.git"
+  },
+  "version": {
+    "label": "0.0.1",
+    "revision": "",
+    "fingerprint": ""
+  },
+  "dependencies": [
+  ],
+  "license": "MIT",
+  "pri_filename": "com_cutehacks_relativetime.pri"
+}

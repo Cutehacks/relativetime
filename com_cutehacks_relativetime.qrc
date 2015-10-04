@@ -1,0 +1,7 @@
+
+<RCC>
+    <qresource prefix="com/cutehacks/relativetime">
+        <file>qmldir</file>
+        <file>relativetime.js</file>
+    </qresource>
+</RCC>
