@@ -26,7 +26,7 @@ import com.cutehacks.relativetime 1.0 as RelativeTime
 
 * `timeSince(date)`
 * `timeLeft(date)`
-* `timeFraction(date, total)`
+* `timeFraction(date, secondsTotal)`
 * `timeSinceObject(date)`
 * `timeLeftObject(date)`
 * `timeObject(seconds)`
